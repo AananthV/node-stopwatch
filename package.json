@@ -1,0 +1,25 @@
+{
+  "name": "stopwatch",
+  "version": "1.0.0",
+  "description": "A simple cli stopwatch",
+  "main": "stopwatch.js",
+  "bin": "stopwatch.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aananthv/node-stopwatch.git"
+  },
+  "keywords": [
+    "stopwatch",
+    "countdown",
+    "clock"
+  ],
+  "author": "Aananth V",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/aananthv/node-stopwatch/issues"
+  },
+  "homepage": "https://github.com/aananthv/node-stopwatch#readme"
+}
